@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="5px" height="5px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip380">
+      <path d="M 3.1981116448567093 0.6283750207056471  L 4.283750207056471 4.671442769587571  L 1.4760642703329552 4.671442769587571  L 0.390425708133165 0.6283750207056471  L 3.1981116448567093 0.6283750207056471  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -274 -796 )">
+    <path d="M 3.1981116448567093 0.6283750207056471  L 4.283750207056471 4.671442769587571  L 1.4760642703329552 4.671442769587571  L 0.390425708133165 0.6283750207056471  L 3.1981116448567093 0.6283750207056471  Z " fill-rule="nonzero" fill="rgba(174, 195, 255, 1)" stroke="none" transform="matrix(1 0 0 1 274 796 )" class="fill" />
+    <path d="M 3.1981116448567093 0.6283750207056471  L 4.283750207056471 4.671442769587571  L 1.4760642703329552 4.671442769587571  L 0.390425708133165 0.6283750207056471  L 3.1981116448567093 0.6283750207056471  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 274 796 )" class="stroke" mask="url(#Clip380)" />
+  </g>
+</svg>
